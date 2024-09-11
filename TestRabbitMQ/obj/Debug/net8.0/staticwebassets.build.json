@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vdw1/pw7Xl9qBmGcsBzMOw2zA/B+RTbypyS7Ve0X4dw=",
+  "Source": "TestRabbitMQ",
+  "BasePath": "_content/TestRabbitMQ",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
